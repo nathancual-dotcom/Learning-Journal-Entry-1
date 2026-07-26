@@ -9,7 +9,7 @@ Q3. What I’m most interested in is the use of AI  able to aggregate, identify,
 
 Q4. At the end of the 20 week session I want to make a program that can scan an image linked to an account to find a specific peice of information associated with the account (ex.  remaining balance of the account) based on the initial values palced in said account. I want to see whether it would be viable to incorporate the use of AI within the analysis process to speed up these types of situations.
 
-Q5. I learned the difference between how to differentiate AI Machine Learning from Deep Learning with the former finding patteren in the present data while the latter uses several avenues to examin a larger sets of data sets. One thing I am still curious about is if both ML and DL use the data presented then how can the AI hallucinate and how drastic are said hallucinations from the real data. 
+Q5. I learned the difference between how to differentiate AI Machine Learning from Deep Learning with the former finding patteren in the present data while the latter uses several avenues to examin a larger sets of data sets. One thing I am still curious about is the various applications and use cases of both ML and DL as they rely on the data presented then how can the AI as well as how drastic a hallucinations can differ from the real data. 
 
 Part 2
 
