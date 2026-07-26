@@ -1,4 +1,4 @@
-# Uplift Boot Camp Learning Journal Entry #1
+# Learning Journal Entry #1
 Part 1
 
 Q1. Hello, my name is Nathan Cual.  I am a college graduate from the University of Santo Tomas with a Bachelor's of Arts Degree. My hobbies include reading, watching videos and playing games but I have always had an interest in how technology and software worked. I have been described as a blunt introvert so if i come off as direct or standoffish that is the reason why. 
